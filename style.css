@@ -1,0 +1,176 @@
+.Ret1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    position: absolute;
+    overflow: visible;
+    border-radius: 12px;
+    width: 247px;
+    height: 104px;
+    left: 424px;
+    top: 281px;
+}
+.Ret3 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;    
+    width: 42px;
+    height: 52px;
+    left: 424px;
+    top: 281px;
+    animation-name: transform;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes transform {
+    100% {transform: scaleX(0) scaleY(0) rotate(360deg) translateY(50px);}
+}
+.Ret4{
+    background-color: orange;
+    position: absolute;
+    overflow: visible;  
+    border-radius: 10px;  
+    width: 48px;
+    height: 52px;
+    left: 467px;
+    top: 281px;
+    animation-name: transform;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.Ret5 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 41px;
+    height: 52px;
+    left: 516px;
+    top: 281px;
+    animation-name: transform;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.Ret6 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 42px;
+    height: 52px;
+    left: 424px;
+    top: 333px;
+    animation-name: transform;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.Ret7 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 48px;
+    height: 52px;
+    left: 467px;
+    top: 333px;
+    animation-name: transform;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.Ret8 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 41px;
+    height: 52px;
+    left: 516px;
+    top: 333px;
+    animation-name: transform;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////*/
+.Ret9 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 41px;
+    height: 52px;
+    left: 557px;
+    top: 281px;
+    animation-name: transformsecond;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes transformsecond {
+   100% {transform: scaleX(0) scaleY(0) rotate(-360deg) translateY(50px);}
+}
+.Ret10 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 41px;
+    height: 52px;
+    left: 597px;
+    top: 282px;
+    animation-name: transformsecond;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.Ret11 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 41px;
+    height: 52px;
+    left: 634px;
+    top: 282px;
+    animation-name: transformsecond;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.Ret12 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 41px;
+    height: 52px;
+    left: 557px;
+    top: 333px;
+    animation-name: transformsecond;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.Ret13 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 41px;
+    height: 52px;
+    left: 597px;
+    top: 333px;
+    animation-name: transformsecond;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.Ret14 {
+    background-color: orange;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+    width: 41px;
+    height: 52px;
+    left: 634px;
+    top: 333px;
+    animation-name: transformsecond;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
